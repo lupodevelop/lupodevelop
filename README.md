@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there 👋 
+
+
+
+Who is lupodevelop?
+
+
+What does he do?
+
+
+We are here to discover this together...
+
 
 <!--
 **lupodevelop/lupodevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
