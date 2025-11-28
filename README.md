@@ -30,6 +30,6 @@ fi
 **Contact**
 
 - GitHub: `https://github.com/lupodevelop`
-- Email: (put your email here)
+- Email: (not provided) 🐶📫
 
 lupodevelop
