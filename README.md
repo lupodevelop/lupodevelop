@@ -1,6 +1,6 @@
 # lupodevelop: code, noise and strange ideas
 
-I make small Gleam libraries, but the real work happens in a messy workshop of experiments. Based in Italy, I travel when I can and learn places by eating them. I scatter prototypes, scribbles, and tiny tools across projects. I follow stubborn curiosity, loud Italian punk, and strong coffee.
+I make small Gleam libraries, but the real work happens in a messy workshop of experiments. Based in Italy, I travel when I can and learn places by eating food. I scatter prototypes, scribbles, and tiny tools across projects. I follow stubborn curiosity, loud Italian punk, and strong coffee.
 
 This is not a product page. Expect rough edges, quick ideas, and things that work well enough to be interesting.
 
