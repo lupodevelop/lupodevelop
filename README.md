@@ -9,6 +9,7 @@ This is not a product page. Expect rough edges, quick ideas, and things that wor
 - 🔗 [sparkling](https://github.com/lupodevelop/sparkling)
 - 🔗 [thrift](https://github.com/lupodevelop/thrift)
 - 🔗 [str](https://github.com/lupodevelop/str)
+- 🔗 [str](https://github.com/lupodevelop/distribute)
 
 Each repository has its own README and examples; this profile points the torch.
 
