@@ -11,6 +11,7 @@ This is not a product page. Expect rough edges, quick ideas, and things that wor
 - 🔗 [str](https://github.com/lupodevelop/str)
 - 🔗 [distribute](https://github.com/lupodevelop/distribute)
 - 🔗 [cmp](https://github.com/lupodevelop/cmp)
+- 🔗 [humanize](https://github.com/lupodevelop/humanize)
 
 Each repository has its own README and examples; this profile points the torch.
 
