@@ -6,6 +6,7 @@ This is not a product page. Expect rough edges, quick ideas, and things that wor
 
 **Repositories**
 
+**Gleam 💜**
 - 🔗 [sparkling](https://github.com/lupodevelop/sparkling)
 - 🔗 [thrift](https://github.com/lupodevelop/thrift)
 - 🔗 [str](https://github.com/lupodevelop/str)
@@ -13,6 +14,10 @@ This is not a product page. Expect rough edges, quick ideas, and things that wor
 - 🔗 [cmp](https://github.com/lupodevelop/cmp)
 - 🔗 [humanize](https://github.com/lupodevelop/humanize)
 - 🔗 [woof](https://github.com/lupodevelop/woof)
+
+**Javascript 🟡**
+
+- 🔗 [remark-blackout](https://github.com/lupodevelop/remark-blackout)
 
 Each repository has its own README and examples; this profile points the torch.
 
