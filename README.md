@@ -14,6 +14,8 @@ This is not a product page. Expect rough edges, quick ideas, and things that wor
 - 🔗 [cmp](https://github.com/lupodevelop/cmp)
 - 🔗 [humanize](https://github.com/lupodevelop/humanize)
 - 🔗 [woof](https://github.com/lupodevelop/woof)
+- 🔗 [envie](https://github.com/lupodevelop/envie)
+- 🔗 [cowl](https://github.com/lupodevelop/cowl)
 
 **Javascript 🟡**
 
