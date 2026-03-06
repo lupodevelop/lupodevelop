@@ -20,6 +20,7 @@ This is not a product page. Expect rough edges, quick ideas, and things that wor
 **Javascript 🟡**
 
 - 🔗 [remark-blackout](https://github.com/lupodevelop/remark-blackout)
+- 🔗 [remark-blackout](https://github.com/lupodevelop/quick-logtime)
 
 Each repository has its own README and examples; this profile points the torch.
 
