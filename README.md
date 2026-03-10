@@ -22,6 +22,11 @@ This is not a product page. Expect rough edges, quick ideas, and things that wor
 - 🔗 [remark-blackout](https://github.com/lupodevelop/remark-blackout)
 - 🔗 [quick-logtime](https://github.com/lupodevelop/quick-logtime)
 
+**Rust 🦀**
+- 🔗 [lockedenv](https://github.com/lupodevelop/lockedenv)
+
+
+
 Each repository has its own README and examples; this profile points the torch.
 
 Also: my dog Echo (yes, like the bash command) moonlights as a code reviewer. Subtle approval example:
