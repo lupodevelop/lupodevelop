@@ -25,6 +25,7 @@ This is not a product page. Expect rough edges, quick ideas, and things that wor
 
 **Rust 🦀**
 - 🔗 [lockedenv](https://github.com/lupodevelop/lockedenv)
+- 🔗 [hexplorer](https://github.com/lupodevelop/hexplorer)
 
 
 
