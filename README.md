@@ -17,6 +17,9 @@ This is not a product page. Expect rough edges, quick ideas, and things that wor
 - 🔗 [envie](https://github.com/lupodevelop/envie)
 - 🔗 [cowl](https://github.com/lupodevelop/cowl)
 - 🔗 [fio](https://github.com/lupodevelop/fio)
+- 🔗 [testcontainer](https://github.com/lupodevelop/testcontainer)
+- 🔗 [testcontainer_formulas_builder](https://github.com/lupodevelop/testcontainer_formulas_builder)
+- 🔗 [testcontainer_formulas](https://github.com/lupodevelop/formulas)
 
 **Javascript 🟡**
 
