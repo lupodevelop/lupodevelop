@@ -18,7 +18,9 @@ This is not a product page. Expect rough edges, quick ideas, and things that wor
 - 🔗 [cowl](https://github.com/lupodevelop/cowl)
 - 🔗 [fio](https://github.com/lupodevelop/fio)
 - 🔗 [testcontainer](https://github.com/lupodevelop/testcontainer)
-- 🔗 [testcontainer_formulas](https://github.com/lupodevelop/formulas)
+- 🔗 [testcontainer_formulas](https://github.com/lupodevelop/testcontainer_formulas)
+- 🔗 [testcontainer_dockerfile](https://github.com/lupodevelop/testcontainer_dockerfile)
+
 
 **Javascript 🟡**
 - 🔗 [remark-blackout](https://github.com/lupodevelop/remark-blackout)
