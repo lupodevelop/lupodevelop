@@ -20,7 +20,7 @@ This is not a product page. Expect rough edges, quick ideas, and things that wor
 - 🔗 [testcontainer](https://github.com/lupodevelop/testcontainer)
 - 🔗 [testcontainer_formulas](https://github.com/lupodevelop/testcontainer_formulas)
 - 🔗 [testcontainer_dockerfile](https://github.com/lupodevelop/testcontainer_dockerfile)
-
+- 🔗 [testcontainer_compose](https://github.com/lupodevelop/testcontainer_compose)
 
 **Javascript 🟡**
 - 🔗 [remark-blackout](https://github.com/lupodevelop/remark-blackout)
