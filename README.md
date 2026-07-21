@@ -113,4 +113,10 @@ fi
 - GitHub: `https://github.com/lupodevelop`
 - Email: (not provided) 🐶📫
 
+**Elsewhere**
+
+- 🌙 [altumdream.com](https://www.altumdream.com) — apps and other things I publish
+- 🍄 [amanitaproject.com](https://www.amanitaproject.com) — serious technical articles
+  about difficult things
+
 lupodevelop 🖐️
